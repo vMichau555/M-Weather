@@ -1,7 +1,7 @@
 main: me.michau.weather.Main
 name: M-Weather
 version: 1.0
-author: vMichau_
+author: vMichau_ [Skrypt: Savorski]
 description: Skrypt autorstwa Savorski przepisany na plugin przezemnie (vMichau_)
 
 commands:
